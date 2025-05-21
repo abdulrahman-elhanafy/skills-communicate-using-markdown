@@ -29,3 +29,10 @@ return 0;
 ```
 
 This is a sample of C++ code.
+
+
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
